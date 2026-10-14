@@ -28,8 +28,8 @@
 |---|---|
 | **Student** | Aditya Anand Soundale |
 | **PRN** | 2125UDSM1110 |
-| **Class / Branch** | Second Year B.Tech (SY-AIDS) |
-| **Course** | DevOps Engineering |
+| **Class / Branch** | SY-DS&AI |
+| **Course** | DevOps |
 
 ---
 
